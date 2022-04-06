@@ -1,0 +1,78 @@
+* {
+    font-family: arial;
+    background-color: rgb(50, 6, 6);
+    color: whitesmoke;
+}
+
+div {
+    text-align: center;
+}
+body{
+    background:url(../imagenes/fondo.png) no-repeat fixed ;
+    ;
+}
+h1 {
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    width: 400px;
+    margin: 10px auto ;
+    font-size: 35px;
+}
+
+*#info {
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: justify;
+}*
+h2 {
+    text-align: center;
+}
+
+.albumes {
+    text-align: justify;
+    list-style: none;
+}
+.img1{
+    width: 300px
+}
+.img2{
+    width: 188px
+}
+.img3{
+    width: 250px
+}
+.img4{
+    width: 200px
+}
+
+.p1{
+    display: inline-block;
+    text-align: left;
+    width: 30%
+}
+
+
+#contenedor{
+    width: 960px; margin: auto;
+}
+
+
+.manga1{
+    display:inline-block;
+    text-align: right;
+    width: 215px
+}
+.manga2{
+    display:inline-block;
+    text-align: right;
+    width: 190px
+}
+.manga3{
+    display:inline-block;
+    text-align: right;
+    width: 400px
+}
+#trivia{
+   text-align: left;
+}

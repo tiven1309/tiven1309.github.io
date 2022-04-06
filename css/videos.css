@@ -1,0 +1,50 @@
+* {
+    font-family: arial;
+  
+    color: whitesmoke;
+
+}
+
+div {
+    text-align: center;
+}
+body{
+    background:url(../imagenes/fondo.png) no-repeat fixed
+    ;
+}
+h1 {
+    padding: 20px 0;
+    text-align: center;
+    color: black;
+    width: 400px;
+    margin: 10px auto ;
+    font-size: 35px;
+}
+
+*#info {
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+}
+
+.img1{
+    width: 300px
+}
+.img2{
+    width: 188px
+}
+.img3{
+    width: 250px
+}
+.img4{
+    width: 200px
+}
+
+#contenedor{
+    width: 960px; margin: auto;
+}
+#footer p{
+    color: black;
+    text-align: center;
+}
+
